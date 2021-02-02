@@ -1,0 +1,10 @@
+cappuccino, tea, espresso, tea, cappuccino, tea, espresso,cappuccino, tea, espresso
+cappuccino, tea, espresso, tea, cappuccin, tea, espresso,espresso,cappuccino, tea, espresso
+tea, espresso, tea,tea, espresso, tea,espresso,espresso,cappuccin
+cappuccino, tea, espresso, tea,cappuccino, tea, espresso,espresso, tea,
+tea, espresso, tea,tea, espresso,cappuccin
+tea,espresso,espresso,tea,tea, espresso,espresso,cappuccin
+espresso, tea,tea, cappuccin, espresso, tea,espresso,espresso,cappuccin
+tea, espresso, tea, cappuccin, tea, espresso,espresso,cappuccino, tea, espresso
+tea, espresso, tea, cappuccin, tea, espresso,cappuccino, tea, espresso
+tea, espresso, tea, cappuccin, tea, espresso
